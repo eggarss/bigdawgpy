@@ -467,5 +467,5 @@ async def commands(ctx):
     embed.set_footer(text=ctx.author.name, icon_url = ctx.author.avatar_url)
     await ctx.send(embed=embed)        
     
-bot.run(dkey)
+bot.run(os.environ['dkey'])
          
