@@ -45,7 +45,7 @@ uzraksti = {'Atkal bambuzo raksta! XD', 'Nu tak beidz sudu rakstit!', 'BEIIIIIII
 
 dabi = {'https://media1.tenor.com/images/3d71b1a0775e998514b124285613984b/tenor.gif?itemid=12276072','https://media.giphy.com/media/3oKIP6AYztSrFZ0AoM/giphy.gif', 'https://media.giphy.com/media/26uTt19akcFxRFCy4/giphy.gif', 'https://media.giphy.com/media/3h5VTO6F1i2gU/giphy.gif', 'https://media.giphy.com/media/26FPpIxroCqzJzi7K/giphy.gif'}
 
-plikimeiteni = {'RealGirls','NSFW','BoltedOnTits','HighResNSFW','randomsexiness', 'ass', 'bigasses', 'SpreadEm', 'booty', 'thick', 'ShinyPorn', 'seethru', 'gonewild', 'Blonde', 'redheads','shorthairchicks','HappyEmbarrassedGirls','palegirls','SexyFrex','flexi','LegalTeens','theratio','milf','Hotchickswithtattoos','piercedtits','PiercedNSFW','pussy','rearpussy','HairyPussy','simps','selfshots','SexyGirlsInBoots','boobs','Boobies'}
+plikimeiteni = {'RealGirls','NSFW','BoltedOnTits', 'ass', 'bigasses', 'SpreadEm', 'booty', 'thick', 'ShinyPorn', 'seethru', 'gonewild', 'Blonde', 'redheads','shorthairchicks','HappyEmbarrassedGirls','palegirls','SexyFrex','flexi','LegalTeens','theratio','milf','Hotchickswithtattoos','piercedtits','pussy','rearpussy','HairyPussy','simps','SexyGirlsInBoots','boobs','Boobies'}
 
 carcrash = {'https://images.carscoops.com/2017/05/crash-civic.gif', 'https://media2.giphy.com/media/PWGti9oEnobni/giphy.gif?cid=790b7611e251c3496c37ea81b847ff2a43c38d7bc891f436&rid=giphy.gif','https://thumbs.gfycat.com/ColorlessBrownGrackle-max-1mb.gif','https://media.giphy.com/media/12yMUVLcImY5a0/giphy.gif','https://images.carscoops.com/2019/10/98df3fbf-accidents-civic-brake-checks-hummer.gif'}
 
