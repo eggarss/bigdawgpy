@@ -35,7 +35,7 @@ apikey = "8FGM0RVFBE2V"
 
 bot = commands.Bot(command_prefix='.')
 
-alfabets = {'pisi pats xDDDD', 'AAAAAAAAAAAAAAAAA', 'BAMBUZO :angry:', 'Uzsuc silto ;)'}
+alfabets = {'pisi pats xDDDD', 'AAAAAAAAAAAAAAAAA','es jau tur' , 'BAMBUZO :angry:', 'Uzsuc silto ;)'}
 
 viensdesmit = {'1','2','3','4','5','6','7','8','9','10'}
 
