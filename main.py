@@ -1,27 +1,14 @@
 # Lil Boc by Ski Mask
 import asyncio
 import typing
-import json
-import configparser
-import datetime
 from discord.ext.commands import MissingPermissions
 from discord.ext import commands
 from discord.ext.commands import has_permissions
-from discord.ext.commands import Bot
-from discord import errors
 import random
 import os
 import discord
 import praw
-import re
-import json
-import datetime as dt
-from urllib.request import urlopen, Request
-from time import sleep
-from colorsys import hls_to_rgb
-from discord.utils import get
-from discord.ext.tasks import loop
-from discord.ext.commands import Bot
+
 
 dothething = {}
 
@@ -35,7 +22,7 @@ apikey = "8FGM0RVFBE2V"
 
 bot = commands.Bot(command_prefix='.')
 
-alfabets = {'pisi pats xDDDD', 'AAAAAAAAAAAAAAAAA','es jau tur' , 'BAMBUZO :angry:', 'Uzsuc silto ;)'}
+alfabets = {'pisi pats xDDDDD', 'AAAAAAAAAAAAAAAAA','es jau tur' , 'BAMBUZO :angry:', 'Uzsuc silto ;)'}
 
 viensdesmit = {'1','2','3','4','5','6','7','8','9','10'}
 
