@@ -412,7 +412,7 @@ async def on_message(message):
 
     for word in bad_words:
         if message.content.count(word) > 0 and message.content.count(word) < 100:
-            print("repeating command deleted")
+            print("repeating command deleted!")
             await message.channel.purge(limit=1)    
     await bot.process_commands(message)    
 
